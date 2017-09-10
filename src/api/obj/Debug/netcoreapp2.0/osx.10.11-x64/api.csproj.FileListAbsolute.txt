@@ -1,0 +1,13 @@
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\libhostpolicy.dylib
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\libhostfxr.dylib
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\api
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\api.deps.json
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\api.runtimeconfig.json
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\api.runtimeconfig.dev.json
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\api.dll
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\bin\Debug\netcoreapp2.0\osx.10.11-x64\api.pdb
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\obj\Debug\netcoreapp2.0\osx.10.11-x64\api.csproj.CoreCompileInputs.cache
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\obj\Debug\netcoreapp2.0\osx.10.11-x64\api.AssemblyInfoInputs.cache
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\obj\Debug\netcoreapp2.0\osx.10.11-x64\api.AssemblyInfo.cs
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\obj\Debug\netcoreapp2.0\osx.10.11-x64\api.dll
+C:\Users\S6W42\Desktop\Coding\NodeJs\Electron-NetCore\GitHub.ElectronNetCore\ElectronNetCore\src\api\obj\Debug\netcoreapp2.0\osx.10.11-x64\api.pdb
